@@ -3,7 +3,6 @@
 Undergraduate student at **Hanyang University**  
 Major in **Automotive Engineering**, Minor in **Data Science**
 
----
 
 ## Coursework & Projects
 
@@ -21,5 +20,3 @@ Major in **Automotive Engineering**, Minor in **Data Science**
 - **Microprocessor Application Systems**  
   - **4-DOF robotic arm project**
   - Arduino (ATmega328P), PCA9685 PWM control, Bluetooth communication
-
----
