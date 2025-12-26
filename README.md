@@ -1,16 +1,25 @@
-## Hi there 👋
+# Dongmin Kim
 
-<!--
-**kmin2426/kmin2426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student at **Hanyang University**  
+Major in **Automotive Engineering**, Minor in **Data Science**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coursework & Projects
+
+### Machine Learning & Vision
+- **SOI1010: Machine Learning 2 (Hanyang University)**  
+  - Implemented **k-NN, SVM, ResNet-50**
+  - Final project: **Kaggle artwork artist classification**
+  - **Ranked 7th overall**
+
+- **EECS 498-007: Deep Learning for Computer Vision (University of Michigan)**  
+  - CNNs and PyTorch-based implementations
+  - Official course materials (self-study)
+
+### Embedded Systems & Robotics
+- **Microprocessor Application Systems**  
+  - **4-DOF robotic arm project**
+  - Arduino (ATmega328P), PCA9685 PWM control, Bluetooth communication
+
+---
