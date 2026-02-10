@@ -76,4 +76,4 @@ developed by **Dongmin Kim**, with a focus on:
 ## Contact
 
 - GitHub: https://github.com/kmin2426
-- Email: (원하면 추가)
+- Email: ehdals1199@hanyang.ac.kr
