@@ -1,6 +1,6 @@
 # Dongmin Kim
 
-<img src="hyu.jpg" width="100%" />
+<img src="hyu.jpeg" width="100%" />
 
 ### 1. Education
 #### (1) Hanyang University, Seoul, Republic of Korea
