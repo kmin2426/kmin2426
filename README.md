@@ -1,38 +1,26 @@
-# Dongmin Kim | Autonomous Driving & Computer Vision
+# Dongmin Kim
 
-<p align="center">
-  <img src="assets/hero.png" width="90%">
-</p>
+### Education
+#### Hanyang University, Seoul, Republic of Korea
+- B.S. in Automotive Engineering (Minor: Data Science)
+- Expected Graduation: Feb 2027
+  
+#### RWTH Aachen University, Germany
+- Faculty of Mechanical Engineering
+- Exchange Program (Mar–Aug 2026)
 
-> Research-oriented development in **Autonomous Driving, Computer Vision, and Robotics**  
-> Focused on **ROS2-based CAV systems**, **temporal vision models**, and **real-world deployment**
+### Affiliation
+- [Intelligent Robotics and Computer Vision Lab (IRCV Lab)](https://ircv.hanyang.ac.kr/)  
+- Undergraduate Researcher
+- Advisor: Prof. Soonmin Hwang
 
----
+### Research Area
+- Vision-centric autonomous driving
 
-## About
-
-This GitHub space hosts **research prototypes, competition systems, and experimental codebases**
-developed by **Dongmin Kim**, with a focus on:
-
-- ROS2-based Cooperative Autonomous Vehicles (CAV)
-- Computer Vision for Autonomous Driving
-- Temporal & Semantic Stability in Vision Models
-- Robotics and Embedded Systems
-
----
-
-## Research & Development Areas
-
-- **Autonomous Driving Systems**
-  - Multi-vehicle coordination (CAV/HV)
-  - ROS2, real-time control, V2X logic
-- **Computer Vision**
-  - Rear-lamp & signal state detection
-  - Temporal modeling in driving scenes
-- **Robotics**
-  - Manipulator control & embedded systems
-- **Machine Learning**
-  - Coursework & experimental notebooks
+### Tools
+- Python (PyTorch)
+- ROS2
+- MATLAB
 
 ---
 
@@ -66,10 +54,10 @@ developed by **Dongmin Kim**, with a focus on:
 
 ### 📘 Coursework & Study
 
-| Repository | Description |
-|----------|------------|
-| EECS-498-007 | Deep Learning for Computer Vision (Michigan) |
-| SOI1010-Machine-Learning-2 | Machine Learning coursework |
+| Repository | Course | Instructor |
+|----------|---------------|--------------------------|
+| EECS-498-007 | Deep Learning for Computer Vision | Univ. of Michigan · Prof. Justin Johnson |
+| SOI-1010| Machine Learning II | Hanyang Univ. · Prof. Sungyong Baik |
 
 ---
 
