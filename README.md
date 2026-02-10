@@ -1,5 +1,7 @@
 # Dongmin Kim
 
+<img src="assets/hyu.jpg" width="100%" />
+
 ### 1. Education
 #### (1) Hanyang University, Seoul, Republic of Korea
 - B.S. in Automotive Engineering (Minor: Data Science)
@@ -26,21 +28,14 @@
 
 ## Maintained Projects
 
-### 🚗 Autonomous Driving & ROS2
+### 🚗 Vision-Centric Autonomous Driving
 
 | Repository | Description | Status |
 |----------|------------|--------|
 | **KAIST-Mobility-Challenge-H6** | ROS2-based CAV algorithms for KAIST Mobility Challenge 2025 | Public |
-| tcar_pkg | Internal ROS2 packages for vehicle control & integration | Private |
-
----
-
-### 👁️ Computer Vision Research
-
-| Repository | Description | Status |
-|----------|------------|--------|
+| tcar_pkg | 2D traffic light perception and vehicle integration | Private |
+| rear-lamp-detection | Rear lamp and signal state detection for driving scenes | Private |
 | semantic-stability | Temporal semantic stability metrics for vision models | Private |
-| rear-lamp-detection | Research prototype for rear lamp state detection | Private |
 
 ---
 
@@ -54,10 +49,11 @@
 
 ### 📘 Coursework & Study
 
-| Repository | Course | Instructor |
-|----------|---------------|--------------------------|
-| EECS-498-007 | Deep Learning for Computer Vision | Univ. of Michigan · Prof. Justin Johnson |
-| SOI-1010| Machine Learning II | Hanyang Univ. · Prof. Sungyong Baik |
+| Repository | Course | Institution | Instructor |
+|----------|--------|-------------|------------|
+| EECS-498-007 | Deep Learning for Computer Vision | University of Michigan | Prof. Justin Johnson |
+| SOI-1010 | Machine Learning II | Hanyang University | Prof. Sunyong Baik |
+
 
 ---
 
