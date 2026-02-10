@@ -1,23 +1,23 @@
 # Dongmin Kim
 
-### Education
-#### Hanyang University, Seoul, Republic of Korea
+### 1. Education
+#### (1) Hanyang University, Seoul, Republic of Korea
 - B.S. in Automotive Engineering (Minor: Data Science)
 - Expected Graduation: Feb 2027
   
-#### RWTH Aachen University, Germany
+#### (2)  RWTH Aachen University, Germany
 - Faculty of Mechanical Engineering
 - Exchange Program (Mar–Aug 2026)
 
-### Affiliation
+### 2. Affiliation
 - [Intelligent Robotics and Computer Vision Lab (IRCV Lab)](https://ircv.hanyang.ac.kr/)  
 - Undergraduate Researcher
 - Advisor: Prof. Soonmin Hwang
 
-### Research Area
+### 3. Research Area
 - Vision-centric autonomous driving
 
-### Tools
+### 4. Tools
 - Python (PyTorch)
 - ROS2
 - MATLAB
