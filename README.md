@@ -34,8 +34,8 @@
 |----------|------------|--------|
 | **KAIST-Mobility-Challenge-H6** | ROS2-based CAV algorithms for KAIST Mobility Challenge 2025 | Public |
 | tcar_pkg | 2D traffic light perception and vehicle integration | Private |
-| rear-lamp-detection | Rear lamp and signal state detection for driving scenes | Private |
-| semantic-stability | Temporal semantic stability metrics for vision models | Private |
+| t-car | Lv.4 Autonomous Driving, 2D Object Detection, Republic of Korea | Private |
+
 
 ---
 
