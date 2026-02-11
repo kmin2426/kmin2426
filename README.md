@@ -33,7 +33,6 @@
 | Repository | Description | Status |
 |----------|------------|--------|
 | **KAIST-Mobility-Challenge-H6** | ROS2-based CAV algorithms for KAIST Mobility Challenge 2025 | Public |
-| tcar_pkg | 2D traffic light perception and vehicle integration | Private |
 | t-car | Lv.4 Autonomous Driving, 2D Object Detection, Republic of Korea | Private |
 
 
