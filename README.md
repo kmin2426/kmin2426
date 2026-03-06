@@ -19,7 +19,7 @@
 
 **Institut für Kraftfahrzeuge (IKA), RWTH Aachen University**  
 - Research Intern  
-- Mar 2026 – Ongoinh
+- Mar 2026 – Present
 
 ---
 
