@@ -1,62 +1,41 @@
 # Dongmin Kim
+---
 
-<img src="hyu_1.jpg" width="80%" />
+## Education
 
-### 1. Education
-#### (1) Hanyang University, Seoul, Republic of Korea
-- B.S. in Automotive Engineering (Minor: Data Science)
-- Expected Graduation: Feb 2027
-  
-#### (2)  RWTH Aachen University, Germany
-- Faculty of Mechanical Engineering
-- Exchange Program (Mar–Aug 2026)
+**Hanyang University, Republic of Korea**  
+- B.S. Automotive Engineering (Minor: Data Science)  
 
-### 2. Affiliation
-- [Intelligent Robotics and Computer Vision Lab (IRCV Lab)](https://ircv.hanyang.ac.kr/)  
-- Undergraduate Researcher
-- Advisor: Prof. Soonmin Hwang
+**RWTH Aachen University, Germany**  
+- Exchange Program, Mechanical Engineering  
 
-### 3. Research Area
-- Vision-centric autonomous driving
+---
 
-### 4. Tools
-- Python (PyTorch)
+## Research Experience
+**Intelligent Robotics and Computer Vision Lab (IRCV Lab), Hanyang University**    
+- Undergraduate Researcher  
+- Prof: Soonmin Hwang
+- Aug 2025 – Feb 2026
+
+**Institut für Kraftfahrzeuge (IKA), RWTH Aachen University**  
+- Research Intern  
+- Mar 2026 – Ongoinh
+
+---
+
+## Projects
+**(1) KAIST Mobility Challenge 2025**  
+- ROS2-based cooperative autonomous driving system
+
+**(2) T-CAR Autonomous Driving Platform**  
+- Level 4 autonomous driving with 2D object detection
+
+**(3) 4-DOF Robot Arm Project**  
+- Embedded control for robotic arm
+
+---
+
+## Skills
+- Python (AI in PyTorch)
 - ROS2
 - MATLAB
-
----
-
-## Maintained Projects
-
-### 🚗 Vision-Centric Autonomous Driving
-
-| Repository | Description | Status |
-|----------|------------|--------|
-| **KAIST-Mobility-Challenge-H6** | ROS2-based CAV algorithms for KAIST Mobility Challenge 2025 | Public |
-| t-car | Lv.4 Autonomous Driving, 2D Object Detection, Republic of Korea | Private |
-
-
----
-
-### 🤖 Robotics
-
-| Repository | Description | Status |
-|----------|------------|--------|
-| 4-DOF-RobotArm-Project | 4-DOF robotic arm control project | Public |
-
----
-
-### 📘 Coursework & Study
-
-| Repository | Course | Institution | Instructor |
-|----------|--------|-------------|------------|
-| EECS-498-007 | Deep Learning for Computer Vision | University of Michigan | Prof. Justin Johnson |
-| SOI-1010 | Machine Learning II | Hanyang University | Prof. Sunyong Baik |
-
-
----
-
-## Contact
-
-- GitHub: https://github.com/kmin2426
-- Email: ehdals1199@hanyang.ac.kr
